@@ -263,8 +263,8 @@
  *             on the pro version. It's on a 2.54mm header on other versions
  * PA1 (RX) -- Motor 5 out
  */
-#define GPIO_UART4_RX	GPIO_UART4_RX_1
-#define GPIO_UART4_TX	GPIO_UART4_TX_1
+//#define GPIO_UART4_RX	GPIO_UART4_RX_1
+//#define GPIO_UART4_TX	GPIO_UART4_TX_1
 
 /* UART6:
  *
